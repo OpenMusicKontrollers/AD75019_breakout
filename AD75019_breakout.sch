@@ -36,12 +36,12 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "AD75019 16x16 CrossSwitch Breakout"
 Date "24 nov 2013"
-Rev ""
-Comp ""
-Comment1 ""
-Comment2 ""
+Rev "2"
+Comp "by Open Music Kontrollers (www.open-music-kontrollers.ch)"
+Comment1 "Licensed under CERN OHL v.1.2"
+Comment2 "Copyright (c) 2013 Hanspeter Portner (dev@open-music-kontrollers.ch)"
 Comment3 ""
 Comment4 ""
 $EndDescr
