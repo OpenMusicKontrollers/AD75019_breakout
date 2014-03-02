@@ -1,14 +1,16 @@
-update=Son 02 Mär 2014 11:39:15 CET
+update=Son 02 Mär 2014 17:37:06 CET
 version=1
-last_client=kicad
+last_client=pcbnew
 [cvpcb]
 version=1
 NetIExt=net
 [cvpcb/libraries]
 EquName1=devcms
+[general]
+version=1
 [eeschema]
 version=1
-LibDir=../libs
+LibDir=../kicad_libs
 NetFmtName=
 RptD_X=0
 RptD_Y=100
@@ -66,7 +68,7 @@ DrawSegmentWidth="    0.200000"
 BoardOutlineThickness="    0.100000"
 ModuleOutlineThickness="    0.150000"
 [pcbnew/libraries]
-LibDir=../mods
+LibDir=../kicad_mods
 LibName1=sockets
 LibName2=connect
 LibName3=discret
@@ -84,5 +86,3 @@ LibName14=dip_sockets
 LibName15=pga_sockets
 LibName16=valves
 LibName17=SIL-8x2
-[general]
-version=1

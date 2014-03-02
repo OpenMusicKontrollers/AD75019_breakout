@@ -93,7 +93,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory ../gerber/AD75019_breakout/rev1/))
+      (outputdirectory ./release))
   )
 
   (net 0 "")
